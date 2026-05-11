@@ -96,7 +96,7 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 <!-- Add your project here. See CONTRIBUTING.md for the entry format. -->
 - [ElizioMartins/projeto-00-ibge-tensores](https://github.com/ElizioMartins/projeto-00-ibge-tensores) `📇` `🏠` – Population Predictor using IBGE demographic data and Machine Learning. **by [@ElizioMartins](https://github.com/ElizioMartins)**
 
-- [lucas-figueiredo-m](https://github.com/lucas-figueiredo-m/radar) `📡` `🪲` - An integrated React Native DevTools with console, networking, native metrics and more, powered with an MCP for AI-assisted debugging. **by [@lucas-figueiredo-m](https://github.com/lucas-figueiredo-m)**
+- [lucas-figueiredo-m/radar](https://github.com/lucas-figueiredo-m/radar) `📡` `🪲` - An integrated React Native DevTools with console, networking, native metrics and more, powered with an MCP for AI-assisted debugging. **by [@lucas-figueiredo-m](https://github.com/lucas-figueiredo-m)**
 ---
 
 ### 📦 Other
