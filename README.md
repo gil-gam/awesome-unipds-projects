@@ -101,6 +101,8 @@ CLIs, libraries, helpers, and developer tools powered by AI.
 - [ftonato/auris](https://github.com/ftonato/auris) `📇` `☁️` – Production-grade Node.js RAG system with hybrid retrieval, pluggable adapters, and OpenTelemetry tracing. **by [@ftonato](https://github.com/ftonato)**
 - [lucas-figueiredo-m/radar](https://github.com/lucas-figueiredo-m/radar) `📡` `🪲` - An integrated React Native DevTools with console, networking, native metrics and more, powered with an MCP for AI-assisted debugging. **by [@lucas-figueiredo-m](https://github.com/lucas-figueiredo-m)**
 - [ftuyama/scroll-closing-your-eyes](https://github.com/ftuyama/scroll-closing-your-eyes) `🐍` `🏠` – Hands-free scrolling driven by eye closure (left eye up, right eye down) using the webcam, MediaPipe Face Landmarker, and PyAutoGUI, with blink filtering and “look straight” gating. **by [@ftuyama](https://github.com/ftuyama)**
+- - [MarceloSoiber/credit-card-fraud-detection](https://github.com/MarceloSoiber/credit-card-fraud-detection) `🐍` `🏠` – Local credit card fraud detection platform with FastAPI, PostgreSQL, Docker, a web dashboard, model training workflows, sequence-based ML inference, transaction import, risk scoring, and optional LLM-powered fraud analysis. **by [@MarceloSoiber](https://github.com/MarceloSoiber)**
+  
 ---
 
 ### 📦 Other
