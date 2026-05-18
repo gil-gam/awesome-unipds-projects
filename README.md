@@ -62,6 +62,8 @@ Autonomous agents that accomplish multi-step tasks using LLMs.
 - [SyanCS/pokemon-training-center](https://github.com/SyanCS/pokemon-training-center) `📇` `🔗` – AI scheduling assistant that classifies natural-language intents via LangGraph + OpenRouter to manage Pokemon lesson enrollments, bookings, and recommendations. **by [@SyanCS](https://github.com/SyanCS)**
 - [SyanCS/alvorada_real_estate](https://github.com/SyanCS/alvorada_real_estate) `📇` `🔗` – Real estate research platform with three LangGraph pipelines for feature extraction from notes, natural-language property ranking, and Neo4j GraphRAG similarity search. **by [@SyanCS](https://github.com/SyanCS)**
 - [matheusmschaffer/entrevistador-implacavel](https://github.com/matheusmschaffer/entrevistador-implacavel) `TypeScript` `AI Agent` – LangGraph agent that conducts job interviews with four distinct personalities, evaluates answers silently, and delivers dramatic feedback. **by [@matheusmschaffer](https://github.com/matheusmschaffer)**
+- [MarceloSoiber/credit-card-fraud-detection](https://github.com/MarceloSoiber/credit-card-fraud-detection) `🐍` `🔗` – Local credit card fraud detection platform with FastAPI, PostgreSQL, Docker, a web dashboard, model training workflows, sequence-based ML inference, transaction import, risk scoring, and optional LLM-powered fraud analysis. **by [@MarceloSoiber](https://github.com/MarceloSoiber)**
+  
 ---
 
 ### 🌐 Web Apps & Games
