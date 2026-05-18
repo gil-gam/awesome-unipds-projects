@@ -90,6 +90,8 @@ Projects that connect services, automate workflows, or react to events.
 
 - [iran-gregorio/project-aegis](https://github.com/iran-gregorio/project-aegis) `📇` `🔗` - An intelligent chatbot designed to analyze sentiment and handle aggression on WhatsApp. ** by [@iran-gregorio](https://github.com/iran-gregorio)**
 
+- [nogueira-araujo/IReadThis.Recommender](https://github.com/nogueira-araujo/IReadThis.Recommender) `#️⃣` `🏠` – AI recomendation API totally developed in C# using the side-car pattern to acoplish into an existent legacy system. **by [@nogueira-araujo](https://github.com/nogueira-araujo)**
+
 ---
 
 ### 🛠️ Tools & Utilities
